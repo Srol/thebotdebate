@@ -1,0 +1,11 @@
+Moderator gives introduction. (introduction.txt)
+Each candidate gives short opening statement. (opening statement.txt)
+Moderator asks a question to random candidate. 
+Candidate replies, going through the list.
+Random chance for each one of a candidate to reply if they are mentioned. (interruptions.txt)
+Moderator asks a question to random candidate. 
+Candidate replies, going through the list.
+Random chance for each one of a candidate to reply if they are mentioned. (interruptions.txt)
+Moderator asks for a closing statement. (closings.txt)
+Candidates each give a closing statement. (closing statement.txt
+Moderator closes out.  (conclusions.txt)
